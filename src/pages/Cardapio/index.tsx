@@ -39,7 +39,9 @@ export default function Cardapio() {
           />
         </div>
         <Itens
-
+          busca={busca}
+          filtro={filtro}
+          ordenador={ordenador}
         />
       </section>
     </main >
