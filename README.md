@@ -5,7 +5,7 @@ Projeto executado em aula na Alura
 
 Para utilizar o código é só 
 ```
-
+git clone https://github.com/LeandroMenoci/react-arquivos-estaticos.git
 ```
 
 ### Dependências utilizadas
